@@ -7,7 +7,7 @@ This Todo list app is a powerful and intuitive app built using React Native, Fir
 ## Features
 
 - Login and Signup Authentication
-- Verifaction Mail
+- Verification Mail
 - Reset Password
 - Add activity
 - Read and Check activity
